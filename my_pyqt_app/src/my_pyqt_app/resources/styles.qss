@@ -1,0 +1,5 @@
+/* Basic stylesheet placeholder */
+QMainWindow {
+    background: #f5f5f5;
+}
+

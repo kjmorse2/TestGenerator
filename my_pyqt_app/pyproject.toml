@@ -1,0 +1,14 @@
+[project]
+name = "my_pyqt_app"
+version = "0.1.0"
+description = "A minimal PyQt application scaffold"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.dependencies]
+PyQt6 = "*"  # optional but recommended; safe to install separately
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
